@@ -64,7 +64,7 @@ export default function Home() {
       </header>
       <main
         id="print-area"
-        className="flex flex-1 w-full max-w-5xl flex-col items-center pt-12 px-16 bg-white dark:bg-black sm:items-start"
+        className="flex flex-1 w-full max-w-5xl flex-col items-center pt-6 px-16 bg-white dark:bg-black sm:items-start"
       >
         <h1 className="text-2xl font-bold mb-2">Cek Kelulusan</h1>
         <p className="text-zinc-500 text-sm mb-6">
@@ -124,13 +124,7 @@ export default function Home() {
           </div>
         )} */}
         {hasil && (
-          /* Pembungkus utama: Mengizinkan scroll horizontal jika layar lebih kecil dari 800px */
           <div className="w-full overflow-x-auto pb-10 custom-scrollbar mt-8">
-            {/* 
-      KONTEN SURAT: 
-      - min-w-[800px] & max-w-[800px]: Mengunci lebar agar tidak berubah.
-      - mx-auto: Menjaga posisi tetap di tengah kalau layarnya lebar (tablet/PC).
-    */}
             <div
               id="print-area"
               className="min-w-[800px] max-w-[800px] mx-auto p-16 bg-white text-black shadow-2xl rounded-sm border border-zinc-200 min-h-[1000px]"
@@ -143,17 +137,18 @@ export default function Home() {
                   alt="Logo"
                 />
                 <div className="text-center flex-1">
-                  <h2 className="text-lg font-bold uppercase leading-tight">
+                  <h2 className="text-lg uppercase leading-tight">
                     Pemerintah Provinsi Gorontalo
                   </h2>
-                  <h1 className="text-xl font-black uppercase leading-tight">
+                  <h1 className="text-xl uppercase leading-tight">
                     Dinas Pendidikan dan Kebudayaan
                   </h1>
                   <h1 className="text-2xl font-black uppercase leading-tight">
                     SMK Negeri 2 Gorontalo
                   </h1>
                   <p className="text-xs italic leading-tight">
-                    Jl. Prof. Dr. HI. Aloei Saboe No.92, Kota Gorontalo
+                    Jl. Drs. Achmad Nadjamudin, Kelurahan Limba U2, Kec. Kota
+                    Selatan, Posel smknduagorontalo@gmail.com
                   </p>
                 </div>
                 <img
