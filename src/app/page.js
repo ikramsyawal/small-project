@@ -96,87 +96,113 @@ export default function Home() {
           </div>
         )} */}
         {hasil && (
-          <div
-            id="print-area"
-            className="mt-10 w-full p-8 bg-white border shadow-sm rounded-lg text-black"
-          >
-            {/* Header Surat */}
-            <div className="text-center border-b-2 border-double border-black pb-4 mb-6">
-              {/* <img src="logo_provinsi.png" className="w-20 h-20"></img>  */}
-              <h2 className="text-xl uppercase">
-                Pemerintah Provinsi Gorontalo
-              </h2>
-              <h2 className="text-xl font-bold uppercase">
-                Dinas Pendidikan dan Kebudayaan
-              </h2>
-              <h1 className="text-xl font-bold uppercase">
-                SMA Negeri 2 Gorontalo
-              </h1>
-              <p className="text-xs italic text-zinc-600">
-                Alamat: Jl. Drs. Achmad Nadjamudin, Kelurahan Limba U2, Kec.
-                Kota Selatan, Posel smknduagorontalo@gmail.com
-              </p>
-            </div>
-            {/* Isi Surat */}
-            <div className="space-y-4">
-              <h3 className="text-center font-bold underline mb-6">
-                SURAT KETERANGAN LULUS
-              </h3>
-
-              <p className="text-sm leading-relaxed mt-4">
-                Berdasarkan hasil rapat dewan guru dan staff tata usaha serta
-                surat keputusan kepala SMK Negeri 2 Gorontalo NO.
-                2.../SMKN2GTO-KURIKULUM-V-2026 tentang penetapan kelulusan
-                peserta didik tahun pelajaran 2025/2026 dengan ini menerangkan;
-                <span className="font-bold"> {hasil.status} </span>
-                dari satuan pendidikan.
-              </p>
-
-              <div className="grid grid-cols-[120px_10px_1fr] text-sm gap-y-2">
-                <span className="font-semibold">Nama</span>
-                <span>:</span>
-                <span className="">{hasil.nama}</span>
-
-                <span className="font-semibold">NIPD</span>
-                <span>:</span>
-                <span>{hasil.nipd}</span>
-
-                <span className="font-semibold">NISN</span>
-                <span>:</span>
-                <span>{hasil.nisn}</span>
-
-                <span className="font-semibold">Konsentrasi keahlian</span>
-                <span>:</span>
-                <span>{hasil.keahlian}</span>
-
-                <span className="font-semibold">Dinyatakan</span>
-                <span>:</span>
-                <span className="font-bold underline">{hasil.keterangan}</span>
+          /* Pembungkus utama: Mengizinkan scroll horizontal jika layar lebih kecil dari 800px */
+          <div className="w-full overflow-x-auto pb-10 custom-scrollbar mt-8">
+            {/* 
+      KONTEN SURAT: 
+      - min-w-[800px] & max-w-[800px]: Mengunci lebar agar tidak berubah.
+      - mx-auto: Menjaga posisi tetap di tengah kalau layarnya lebar (tablet/PC).
+    */}
+            <div
+              id="print-area"
+              className="min-w-[800px] max-w-[800px] mx-auto p-16 bg-white text-black shadow-2xl rounded-sm border border-zinc-200 min-h-[1000px]"
+            >
+              {/* KOP SURAT - Dibuat statis ukurannya agar tidak mengecil */}
+              <div className="flex items-center border-b-4 border-black pb-2 mb-6 gap-4">
+                <img
+                  src="/logo_provinsi.png"
+                  className="w-20 h-20 object-contain"
+                  alt="Logo"
+                />
+                <div className="text-center flex-1">
+                  <h2 className="text-lg font-bold uppercase leading-tight">
+                    Pemerintah Provinsi Gorontalo
+                  </h2>
+                  <h1 className="text-xl font-black uppercase leading-tight">
+                    Dinas Pendidikan dan Kebudayaan
+                  </h1>
+                  <h1 className="text-2xl font-black uppercase leading-tight">
+                    SMK Negeri 2 Gorontalo
+                  </h1>
+                  <p className="text-xs italic leading-tight">
+                    Jl. Prof. Dr. HI. Aloei Saboe No.92, Kota Gorontalo
+                  </p>
+                </div>
+                <img
+                  src="/logo_sekolah.png"
+                  className="w-20 h-20 object-contain"
+                  alt="Logo"
+                />
               </div>
 
-              <p className="text-sm leading-relaxed mt-4">
-                Demikian surat ini dibuat semoga adik-adik alumni 2026 dapat
-                bekerja melanjutkan/mandiri dan berwirausaha
-                <span className="font-bold"> {hasil.status} </span>
-                dari satuan pendidikan.
-              </p>
-            </div>
+              <div className="space-y-6">
+                <h3 className="text-center font-bold underline mb-6 text-base">
+                  PENGUMUMAN KELULUSAN TAHUN PELAJARAN 2025/2026
+                </h3>
 
-            {/* Tanda Tangan (Opsional) */}
-            <div className="mt-12 flex justify-end text-sm">
-              <div className="text-center">
-                <p>
-                  Gorontalo,{" "}
-                  {new Date().toLocaleDateString("id-ID", {
-                    day: "numeric",
-                    month: "long",
-                    year: "numeric",
-                  })}
+                <p className="text-base leading-relaxed text-justify">
+                  Berdasarkan hasil rapat dewan guru dan staf tata usaha serta
+                  surat keputusan kepala SMK Negeri 2 Gorontalo Nomor:{" "}
+                  <span className="font-mono">
+                    2.../SMKN2GTO-KURIKULUM-V-2026
+                  </span>{" "}
+                  tentang penetapan kelulusan peserta didik tahun pelajaran
+                  2025/2026, dengan ini menerangkan identitas di bawah ini:
                 </p>
-                <p className="mb-16">Drs. Jakub A. Gue,</p>
-                <p className="font-bold underline text-zinc-300">
-                  (Tanda Tangan & Stempel)
+
+                {/* GRID DATA SISWA - Menggunakan lebar tetap agar titik dua sejajar sempurna */}
+                <div className="grid grid-cols-[200px_10px_1fr] text-base gap-y-3 my-8">
+                  <span className="font-semibold">Nama</span>
+                  <span>:</span>
+                  <span className="font-bold uppercase">{hasil.nama}</span>
+
+                  <span className="font-semibold">NIPD</span>
+                  <span>:</span>
+                  <span>{hasil.nipd}</span>
+
+                  <span className="font-semibold">NISN</span>
+                  <span>:</span>
+                  <span>{hasil.nisn}</span>
+
+                  <span className="font-semibold">Konsentrasi Keahlian</span>
+                  <span>:</span>
+                  <span>{hasil.keahlian}</span>
+
+                  <span className="font-semibold">Dinyatakan</span>
+                  <span>:</span>
+                  <span
+                    className={`font-black underline text-lg ${hasil.keterangan === "LULUS" ? "text-green-700" : "text-red-600"}`}
+                  >
+                    {hasil.keterangan}
+                  </span>
+                </div>
+
+                <p className="text-base leading-relaxed text-justify">
+                  Demikian pengumuman ini disampaikan, kiranya alumni tahun 2026
+                  dapat terus berkarya, baik bekerja, melanjutkan pendidikan,
+                  maupun berwirausaha secara mandiri.
                 </p>
+              </div>
+
+              {/* TANDA TANGAN */}
+              <div className="mt-16 flex justify-end text-base">
+                <div className="text-center w-72">
+                  <p>Gorontalo, 4 Mei 2026</p>
+                  <p className="font-semibold">Kepala Sekolah,</p>
+
+                  <div className="flex justify-center my-4">
+                    <img
+                      src="/kepsek_ttd.png"
+                      className="h-28 object-contain"
+                      alt="Tanda Tangan"
+                    />
+                  </div>
+
+                  <p className="font-bold underline uppercase">
+                    Drs. Jakub A. GuE
+                  </p>
+                  <p className="text-sm">NIP. 196706081994121002</p>
+                </div>
               </div>
             </div>
           </div>
