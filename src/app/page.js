@@ -158,19 +158,20 @@ export default function Home() {
                 />
               </div>
 
-              <div className="space-y-6">
+              <div className="">
+                <h3 className="text-center font-bold underline text-base">
+                  PENGUMUMAN KELULUSAN
+                </h3>
                 <h3 className="text-center font-bold underline mb-6 text-base">
-                  PENGUMUMAN KELULUSAN TAHUN PELAJARAN 2025/2026
+                  TAHUN PELAJARAN 2025/2026
                 </h3>
 
                 <p className="text-base leading-relaxed text-justify">
-                  Berdasarkan hasil rapat dewan guru dan staf tata usaha serta
-                  surat keputusan kepala SMK Negeri 2 Gorontalo Nomor:{" "}
-                  <span className="font-mono">
-                    2.../SMKN2GTO-KURIKULUM-V-2026
-                  </span>{" "}
-                  tentang penetapan kelulusan peserta didik tahun pelajaran
-                  2025/2026, dengan ini menerangkan identitas di bawah ini:
+                  Berdasarkan surat keputusan kepala SMK Negeri 2 Gorontalo
+                  Nomor:{" "}
+                  <span className="font-mono">318/SMKN2GTO-KUR/V/2026</span>{" "}
+                  tentang penetapan kelulusan peserta didik kelas 12 tahun
+                  pelajaran 2025/2026, dengan ini menerangkan kepada:
                 </p>
 
                 {/* GRID DATA SISWA - Menggunakan lebar tetap agar titik dua sejajar sempurna */}
@@ -190,9 +191,9 @@ export default function Home() {
                   <span className="font-semibold">Konsentrasi Keahlian</span>
                   <span>:</span>
                   <span>{hasil.keahlian}</span>
-
-                  <span className="font-semibold">Dinyatakan</span>
-                  <span>:</span>
+                </div>
+                <div className="w-full text-center mb-4">
+                  <p className="font-semibold">Dinyatakan</p>
                   <span
                     className={`font-black underline text-lg ${hasil.keterangan === "LULUS" ? "text-green-700" : "text-red-600"}`}
                   >
@@ -201,9 +202,9 @@ export default function Home() {
                 </div>
 
                 <p className="text-base leading-relaxed text-justify">
-                  Demikian pengumuman ini disampaikan, kiranya alumni tahun 2026
-                  dapat terus berkarya, baik bekerja, melanjutkan pendidikan,
-                  maupun berwirausaha secara mandiri.
+                  Selamat atas kelulusan anda semoga kelulusan ini menjadi
+                  langkah awal menuju dunia kerja, wirausaha, atau pendidikan
+                  yang lebih tinggi.
                 </p>
               </div>
 
