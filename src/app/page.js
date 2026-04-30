@@ -37,7 +37,35 @@ export default function Home() {
 
   return (
     <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center py-32 px-16 bg-white dark:bg-black sm:items-start">
+      {/* HEADER */}
+      <header className="w-full bg-white border-b border-zinc-200 py-4 px-6 shadow-sm">
+        <div className="max-w-5xl mx-auto flex items-center justify-between">
+          <div className="flex items-center gap-3">
+            <img
+              src="/logo_sekolah.png"
+              alt="Logo"
+              className="w-10 h-10 object-contain"
+            />
+            <div>
+              <h1 className="font-bold text-zinc-900 leading-none text-sm sm:text-base">
+                SMK NEGERI 2 GORONTALO
+              </h1>
+              <p className="text-[10px] sm:text-xs text-zinc-500 uppercase tracking-wider">
+                Sistem Informasi Kelulusan
+              </p>
+            </div>
+          </div>
+          <div className="hidden sm:block">
+            <span className="text-xs bg-zinc-200 px-3 py-1 rounded-full font-medium">
+              TP. 2025/2026
+            </span>
+          </div>
+        </div>
+      </header>
+      <main
+        id="print-area"
+        className="flex flex-1 w-full max-w-5xl flex-col items-center pt-12 px-16 bg-white dark:bg-black sm:items-start"
+      >
         <h1 className="text-2xl font-bold mb-2">Cek Kelulusan</h1>
         <p className="text-zinc-500 text-sm mb-6">
           Masukkan NISN untuk melihat hasil kelulusan.
@@ -205,9 +233,35 @@ export default function Home() {
                 </div>
               </div>
             </div>
+            {/* Tombol Cetak (Di luar print-area agar mudah dikelola, atau beri class btn-print) */}
+            <button
+              onClick={() => window.print()}
+              className="btn btn-primary mt-6 px-10 btn-print w-full"
+            >
+              Cetak ke PDF / Printer
+            </button>
           </div>
         )}
       </main>
+      {/* FOOTER */}
+      <footer className="w-full bg-white border-t border-zinc-200 py-8 px-6 mt-auto">
+        <div className="max-w-5xl mx-auto text-center">
+          <p className="text-sm text-zinc-600 font-medium">
+            © 2026 SMK Negeri 2 Gorontalo. All Rights Reserved.
+          </p>
+          <div className="flex justify-center gap-4 mt-3">
+            <p className="text-[10px] text-zinc-400 uppercase tracking-widest">
+              Dikembangkan oleh Tim IT SMKN 2 Gorontalo
+            </p>
+          </div>
+          <div className="mt-6 pt-6 border-t border-zinc-100">
+            <p className="text-[11px] text-black-400 italic leading-relaxed">
+              *Jika terdapat kendala atau data tidak ditemukan, silakan hubungi
+              bagian Kurikulum atau Wali Kelas masing-masing.
+            </p>
+          </div>
+        </div>
+      </footer>
     </div>
   );
 }

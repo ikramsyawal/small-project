@@ -25,3 +25,38 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+@media print {
+  /* 1. Sembunyikan semua elemen di halaman */
+  body * {
+    visibility: hidden;
+  }
+
+  /* 2. Tampilkan kembali hanya area surat dan isinya */
+  #print-area,
+  #print-area * {
+    visibility: visible;
+  }
+
+  /* 3. Atur posisi surat agar pas di kertas (paling atas kiri) */
+  #print-area {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    border: none;
+    box-shadow: none;
+  }
+
+  /* 4. Sembunyikan scrollbar atau elemen UI lain yang mungkin muncul */
+  .custom-scrollbar {
+    overflow: visible !important;
+  }
+
+  /* Sembunyikan tombol "Cetak" itu sendiri saat diprint */
+  .btn-print {
+    display: none !important;
+  }
+}
