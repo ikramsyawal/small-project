@@ -1,2314 +1,2025 @@
 [
   {
-    "id": "1",
     "nama": "Adeca Saputra Adam",
     "nipd": "11695",
     "nisn": "0086536129",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "2",
-    "nama": "Aldias Sako",
+    "nama": "ALDIAS SAKO",
     "nipd": "11713",
     "nisn": "0089524857",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "3",
     "nama": "Astina Abdul",
     "nipd": "11740",
     "nisn": "0088240754",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "4",
     "nama": "Azwar Podomi",
     "nipd": "11753",
     "nisn": "0073845775",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "5",
-    "nama": "Celvin Julyo Hongo",
+    "nama": "CELVIN JULYO HONGO",
     "nipd": "11757",
     "nisn": "0084359115",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "6",
-    "nama": "David Walangadi",
+    "nama": "DAVID WALANGADI",
     "nipd": "11767",
     "nisn": "0081069740",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "7",
-    "nama": "Flira Aurelia Putri S.Suryadi",
+    "nama": "FLIRA AURELIA PUTRI S.SURYADI",
     "nipd": "11802",
     "nisn": "0086457445",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "8",
-    "nama": "Husin Lahabu",
+    "nama": "HUSIN LAHABU",
     "nipd": "11813",
     "nisn": "0089992582",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "9",
     "nama": "Kasim Djamaa",
     "nipd": "11830",
     "nisn": "0079520202",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "10",
     "nama": "Marsel Pasue",
     "nipd": "11844",
     "nisn": "0089460963",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "11",
     "nama": "Maryam Hamzah",
     "nipd": "11845",
     "nisn": "0078050055",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "12",
     "nama": "Moh. Danaiel Puyo",
     "nipd": "11854",
     "nisn": "0086241027",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "13",
     "nama": "Moh. Zulmuin Ahmad",
     "nipd": "11895",
     "nisn": "0086986436",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "14",
-    "nama": "Mohamad Rido Paputungan",
+    "nama": "MOHAMAD RIDO PAPUTUNGAN",
     "nipd": "11883",
     "nisn": "0072805254",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "15",
     "nama": "Mohammad Rifai H. Pakaya",
     "nipd": "11889",
     "nisn": "0073890757",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "16",
     "nama": "Nigita Pakaya",
     "nipd": "11914",
     "nisn": "0089380956",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "17",
     "nama": "Nur Iffah Suci Ramadhani B.",
     "nipd": "11922",
     "nisn": "0084926530",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "18",
     "nama": "Nurinda Zakaria",
     "nipd": "11928",
     "nisn": "0077982561",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "19",
     "nama": "Rabil Meidhi Hilahapa",
     "nipd": "11940",
     "nisn": "0088591608",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "20",
     "nama": "Rafi Al'Fitra Rantung",
     "nipd": "11943",
     "nisn": "0085531735",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "21",
     "nama": "Rahmat R. Ali",
     "nipd": "11948",
     "nisn": "0074046076",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "22",
-    "nama": "Ramlawati Harun",
+    "nama": "RAMLAWATI HARUN",
     "nipd": "11954",
     "nisn": "0087422420",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "23",
     "nama": "Rifaldi Bintuy",
     "nipd": "11964",
     "nisn": "0052222970",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "24",
-    "nama": "Satrio Ramadan Mulyono",
+    "nama": "SATRIO RAMADAN MULYONO",
     "nipd": "11990",
     "nisn": "0084225836",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "25",
     "nama": "Syaiful Doe",
     "nipd": "12032",
     "nisn": "0086787660",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "26",
     "nama": "Tegar Masalubu",
     "nipd": "11642",
     "nisn": "0067716587",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "27",
     "nama": "Zulfikri Umar",
     "nipd": "12058",
     "nisn": "0082835539",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "28",
-    "nama": "Zulkifli Idrus",
+    "nama": "ZULKIFLI IDRUS",
     "nipd": "12060",
     "nisn": "0085260340",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "29",
     "nama": "Abdul Hamid Pakaya",
     "nipd": "11249",
     "nisn": "0068618119",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "30",
-    "nama": "Abdul Manaf H. Pakaya",
+    "nama": "ABDUL MANAF H. PAKAYA",
     "nipd": "11694",
     "nisn": "0094051308",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "31",
-    "nama": "Alma I. Aju",
+    "nama": "ALMA I. AJU",
     "nipd": "11722",
     "nisn": "0071733651",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "32",
     "nama": "Alqifly Lamani",
     "nipd": "11724",
     "nisn": "0085505221",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "33",
-    "nama": "Arya Saputra A. Tuliyabu",
+    "nama": "ARYA SAPUTRA A. TULIYABU",
     "nipd": "11738",
     "nisn": "0095800095",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "34",
     "nama": "Baim Hasan",
     "nipd": "11754",
     "nisn": "0085503413",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "35",
     "nama": "Farel Wuata",
     "nipd": "11781",
     "nisn": "0083970357",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "36",
     "nama": "Fikran Harun",
     "nipd": "11793",
     "nisn": "0075041429",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "37",
     "nama": "Firman Labatjo",
     "nipd": "11794",
     "nisn": "0077620128",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "38",
-    "nama": "Flara Amelia Putri S.",
+    "nama": "FLARA AMELIA PUTRI S.",
     "nipd": "11801",
     "nisn": "0085723262",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "39",
     "nama": "Misran M. Hamu",
     "nipd": "11848",
     "nisn": "0088254587",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "40",
     "nama": "Moh. Akbar Djarati Datu",
     "nipd": "11852",
     "nisn": "0089326084",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "41",
     "nama": "Moh. Fahril Usman",
     "nipd": "11858",
     "nisn": "0089363603",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "42",
     "nama": "Moh. Nabil Ishak",
     "nipd": "11861",
     "nisn": "0087051631",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "43",
     "nama": "Mohamad Nabil Mato",
     "nipd": "11878",
     "nisn": "0083771885",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "44",
     "nama": "Mohamad Rifaldi Duu",
     "nipd": "11884",
     "nisn": "0085898371",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "45",
     "nama": "Mohamad Ronalwin H. Sumu",
     "nipd": "11886",
     "nisn": "0083892323",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "46",
     "nama": "Nadya Natalia Lahabu",
     "nipd": "11901",
     "nisn": "0077302055",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "47",
     "nama": "Nur Anisa Samad",
     "nipd": "11921",
     "nisn": "0084192186",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "48",
-    "nama": "Putrasamir Idyan Lamusu",
+    "nama": "PUTRASAMIR IDYAN LAMUSU",
     "nipd": "11935",
     "nisn": "0089479124",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "49",
     "nama": "Reyka Pakaya",
     "nipd": "11962",
     "nisn": "0083705538",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "50",
     "nama": "Riskiyanto Lahmutu",
     "nipd": "11971",
     "nisn": "0072945925",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "51",
     "nama": "Rizki Yunus",
     "nipd": "11974",
     "nisn": "0091331763",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "52",
-    "nama": "Safitri Rahman",
+    "nama": "SAFITRI RAHMAN",
     "nipd": "11977",
     "nisn": "0068038703",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "53",
     "nama": "Sapna Thalib",
     "nipd": "11986",
     "nisn": "0068788533",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "54",
     "nama": "Shahriki Al-Shiddiq Ramadhan Wakkary",
     "nipd": "11991",
     "nisn": "0081647370",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "55",
     "nama": "Sri Ajeng Samola",
     "nipd": "12014",
     "nisn": "0078183103",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "56",
-    "nama": "Tediyanto B. Iti",
+    "nama": "TEDIYANTO B. ITI",
     "nipd": "12036",
     "nisn": "0074362515",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "57",
     "nama": "Titin Isa",
     "nipd": "12038",
     "nisn": "0067658963",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "58",
     "nama": "Virman Ardiansyah  M. Manopo",
     "nipd": "12041",
     "nisn": "0088669575",
-    "keahlian": "APHP",
+    "Keahlian": "Agribisnis Pengolahan Hasil Pertanian",
     "keterangan": "LULUS"
   },
   {
-    "id": "59",
-    "nama": "Alicia Bunga Thalib",
+    "nama": "ALICIA BUNGA THALIB",
     "nipd": "11716",
     "nisn": "0086991547",
-    "keahlian": "BUSANA",
+    "Keahlian": "Busana",
     "keterangan": "LULUS"
   },
   {
-    "id": "60",
     "nama": "Allesia Finola Morence Goas",
     "nipd": "11720",
     "nisn": "0082838085",
-    "keahlian": "BUSANA",
+    "Keahlian": "Busana",
     "keterangan": "LULUS"
   },
   {
-    "id": "61",
-    "nama": "Amelia Nusi",
+    "nama": "AMELIA NUSI",
     "nipd": "11728",
     "nisn": "0131030063",
-    "keahlian": "BUSANA",
+    "Keahlian": "Busana",
     "keterangan": "LULUS"
   },
   {
-    "id": "62",
-    "nama": "Aulia Nadira Pakaya",
+    "nama": "AULIA NADIRA PAKAYA",
     "nipd": "11744",
     "nisn": "0076995872",
-    "keahlian": "BUSANA",
+    "Keahlian": "Busana",
     "keterangan": "LULUS"
   },
   {
-    "id": "63",
     "nama": "Cindi Yanti Ali",
     "nipd": "11761",
     "nisn": "0072627287",
-    "keahlian": "BUSANA",
+    "Keahlian": "Busana",
     "keterangan": "LULUS"
   },
   {
-    "id": "64",
-    "nama": "Fadelia Aksara",
+    "nama": "FADELIA AKSARA",
     "nipd": "11774",
     "nisn": "0076561466",
-    "keahlian": "BUSANA",
+    "Keahlian": "Busana",
     "keterangan": "LULUS"
   },
   {
-    "id": "65",
-    "nama": "Fadillah Pulango",
+    "nama": "FADILLAH PULANGO",
     "nipd": "11776",
     "nisn": "0097277336",
-    "keahlian": "BUSANA",
+    "Keahlian": "Busana",
     "keterangan": "LULUS"
   },
   {
-    "id": "66",
-    "nama": "Fatiah Muslimah",
+    "nama": "FATIAH MUSLIMAH",
     "nipd": "11783",
     "nisn": "0088273629",
-    "keahlian": "BUSANA",
+    "Keahlian": "Busana",
     "keterangan": "LULUS"
   },
   {
-    "id": "67",
-    "nama": "Lutfiah Farha Pilomonu",
+    "nama": "LUTFIAH FARHA PILOMONU",
     "nipd": "11840",
     "nisn": "0089551405",
-    "keahlian": "BUSANA",
+    "Keahlian": "Busana",
     "keterangan": "LULUS"
   },
   {
-    "id": "68",
     "nama": "Magfirah Rahmatilah Liputo",
     "nipd": "11841",
     "nisn": "0077975294",
-    "keahlian": "BUSANA",
+    "Keahlian": "Busana",
     "keterangan": "LULUS"
   },
   {
-    "id": "69",
-    "nama": "Nur Siti Aulia Dunggio",
+    "nama": "NUR SITI AULIA DUNGGIO",
     "nipd": "11926",
     "nisn": "0086845003",
-    "keahlian": "BUSANA",
+    "Keahlian": "Busana",
     "keterangan": "LULUS"
   },
   {
-    "id": "70",
-    "nama": "Olivia Mobi",
+    "nama": "OLIVIA MOBI",
     "nipd": "11932",
     "nisn": "0085746302",
-    "keahlian": "BUSANA",
+    "Keahlian": "Busana",
     "keterangan": "LULUS"
   },
   {
-    "id": "71",
-    "nama": "Rachel Arrifah Adam",
+    "nama": "RACHEL ARRIFAH ADAM",
     "nipd": "11941",
     "nisn": "0086629603",
-    "keahlian": "BUSANA",
+    "Keahlian": "Busana",
     "keterangan": "LULUS"
   },
   {
-    "id": "72",
     "nama": "Rihana Dalanggo",
     "nipd": "11966",
     "nisn": "3069681516",
-    "keahlian": "BUSANA",
+    "Keahlian": "Busana",
     "keterangan": "LULUS"
   },
   {
-    "id": "73",
     "nama": "Safira Cahaya Matani",
     "nipd": "11976",
     "nisn": "0072676331",
-    "keahlian": "BUSANA",
+    "Keahlian": "Busana",
     "keterangan": "LULUS"
   },
   {
-    "id": "74",
-    "nama": "Salma Kanoli",
+    "nama": "SALMA KANOLI",
     "nipd": "11980",
     "nisn": "0085003817",
-    "keahlian": "BUSANA",
+    "Keahlian": "Busana",
     "keterangan": "LULUS"
   },
   {
-    "id": "75",
     "nama": "Salsabila Labaco",
     "nipd": "11984",
     "nisn": "0088967742",
-    "keahlian": "BUSANA",
+    "Keahlian": "Busana",
     "keterangan": "LULUS"
   },
   {
-    "id": "76",
     "nama": "Saskia Kirana Karim",
     "nipd": "11988",
     "nisn": "0087226527",
-    "keahlian": "BUSANA",
+    "Keahlian": "Busana",
     "keterangan": "LULUS"
   },
   {
-    "id": "77",
-    "nama": "Silvani Jafar",
+    "nama": "SILVANI JAFAR",
     "nipd": "11993",
     "nisn": "0069017909",
-    "keahlian": "BUSANA",
+    "Keahlian": "Busana",
     "keterangan": "LULUS"
   },
   {
-    "id": "78",
     "nama": "Sindi Marya Maulud",
     "nipd": "11994",
     "nisn": "0076698468",
-    "keahlian": "BUSANA",
+    "Keahlian": "Busana",
     "keterangan": "LULUS"
   },
   {
-    "id": "79",
     "nama": "Siti Fania Darise",
     "nipd": "12000",
     "nisn": "0085555467",
-    "keahlian": "BUSANA",
+    "Keahlian": "Busana",
     "keterangan": "LULUS"
   },
   {
-    "id": "80",
-    "nama": "Siti Nu'Arafah Huwani",
+    "nama": "Siti Nu'arafah Huwani",
     "nipd": "12006",
     "nisn": "0071126672",
-    "keahlian": "BUSANA",
+    "Keahlian": "Busana",
     "keterangan": "LULUS"
   },
   {
-    "id": "81",
     "nama": "Sri Damayanti Usman",
     "nipd": "12016",
     "nisn": "0084140618",
-    "keahlian": "BUSANA",
+    "Keahlian": "Busana",
     "keterangan": "LULUS"
   },
   {
-    "id": "82",
-    "nama": "Sulfiani Pakaya",
+    "nama": "SULFIANI PAKAYA",
     "nipd": "12025",
     "nisn": "0074991277",
-    "keahlian": "BUSANA",
+    "Keahlian": "Busana",
     "keterangan": "LULUS"
   },
   {
-    "id": "83",
     "nama": "Wardathul Isra R. Kaiko",
     "nipd": "12042",
     "nisn": "0084741357",
-    "keahlian": "BUSANA",
+    "Keahlian": "Busana",
     "keterangan": "LULUS"
   },
   {
-    "id": "84",
     "nama": "Yulita Manana",
     "nipd": "12045",
     "nisn": "0064389695",
-    "keahlian": "BUSANA",
+    "Keahlian": "Busana",
     "keterangan": "LULUS"
   },
   {
-    "id": "85",
     "nama": "Abdul Fattah Pauladji",
     "nipd": "11693",
     "nisn": "0081809400",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "86",
     "nama": "Afryan Rahcmawansyah A. Efhendy",
     "nipd": "11702",
     "nisn": "0083620350",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "87",
     "nama": "Alya Bassay",
     "nipd": "11725",
     "nisn": "0071942033",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "88",
     "nama": "Arsad Danial",
     "nipd": "11735",
     "nisn": "0086459371",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "89",
     "nama": "Ayu Frisila Pasilia",
     "nipd": "11750",
     "nisn": "0075112957",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "90",
     "nama": "Chelsea Medina Nurilahi",
     "nipd": "11758",
     "nisn": "0087383858",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "91",
     "nama": "Fahdil Aldaffa Bakri",
     "nipd": "11777",
     "nisn": "0075608148",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "92",
     "nama": "Farid Abdul Ghoni Ibrahim",
     "nipd": "11782",
     "nisn": "0085756060",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "93",
     "nama": "Fatmawati Monoarfa",
     "nipd": "11784",
     "nisn": "0087641969",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "94",
     "nama": "Firmansyah Usman",
     "nipd": "11795",
     "nisn": "0076147448",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "95",
-    "nama": "Fitri W. Nani",
+    "nama": "FITRI W. NANI",
     "nipd": "11797",
     "nisn": "0085191206",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "96",
-    "nama": "Githan Idris",
+    "nama": "GITHAN IDRIS",
     "nipd": "11804",
     "nisn": "3074029403",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "97",
-    "nama": "Greis Avriani Ladjo",
+    "nama": "GREIS AVRIANI LADJO",
     "nipd": "11805",
     "nisn": "0084812272",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "98",
     "nama": "Herasya Hilahapa",
     "nipd": "11809",
     "nisn": "0077072261",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "99",
-    "nama": "Idham Fitrahtul Karim",
+    "nama": "IDHAM FITRAHTUL KARIM",
     "nipd": "11814",
     "nisn": "0085886752",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "100",
     "nama": "Juminten Karim",
     "nipd": "11829",
     "nisn": "0071383480",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "101",
     "nama": "Miranda Salsabila R. Adam",
     "nipd": "11847",
     "nisn": "0088148682",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "102",
     "nama": "Moh Fauzan Husain",
     "nipd": "12069",
     "nisn": "0079021944",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "103",
-    "nama": "Moh. Fahrezi Rahman",
+    "nama": "MOH. FAHREZI RAHMAN",
     "nipd": "11857",
     "nisn": "0086880447",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "104",
-    "nama": "Moh. Refianto Taeli",
+    "nama": "MOH. REFIANTO TAELI",
     "nipd": "11862",
     "nisn": "0078498052",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "105",
     "nama": "Moh. Wahyu Petasule",
     "nipd": "11865",
     "nisn": "0089869394",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "106",
     "nama": "Mohamad Fahri Djalali",
     "nipd": "11870",
     "nisn": "0087401459",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "107",
-    "nama": "Mohamad Rafli Dai",
+    "nama": "MOHAMAD RAFLI DAI",
     "nipd": "11879",
     "nisn": "0071544430",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "108",
     "nama": "Mohamad Yayat Ali",
     "nipd": "11887",
     "nisn": "0079582093",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "109",
-    "nama": "Mohammad Ilyas C. Muda",
+    "nama": "MOHAMMAD ILYAS C. MUDA",
     "nipd": "11888",
     "nisn": "0082906126",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "110",
     "nama": "Muhammad Iqbal",
     "nipd": "11898",
     "nisn": "0087513163",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "111",
     "nama": "Nur Nayla Fadillah Husain",
     "nipd": "11924",
     "nisn": "0067245489",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "112",
-    "nama": "Nur Safitri Ahmad",
+    "nama": "NUR SAFITRI AHMAD",
     "nipd": "11925",
     "nisn": "0071253130",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "113",
     "nama": "Ripay Lalu",
     "nipd": "11968",
     "nisn": "0088361498",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "114",
     "nama": "Sultan Malanua",
     "nipd": "12026",
     "nisn": "0084320763",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "115",
     "nama": "Sutra Maharani Mahmud",
     "nipd": "12028",
     "nisn": "0084597906",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "116",
     "nama": "Syahrul Ramadhan Mohamad",
     "nipd": "12031",
     "nisn": "0081175537",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "117",
-    "nama": "Syarah Wahyunita Aprilia",
+    "nama": "SYARAH WAHYUNITA APRILIA",
     "nipd": "12033",
     "nisn": "0086499357",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "118",
     "nama": "Usman Ferdiansyah Wahab",
     "nipd": "12040",
     "nisn": "0084185984",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "119",
-    "nama": "Zachnovayla Marfya Alamri",
+    "nama": "ZACHNOVAYLA MARFYA ALAMRI",
     "nipd": "12048",
     "nisn": "0089005612",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "120",
     "nama": "Zahratusyita Aisari",
     "nipd": "12051",
     "nisn": "0073289071",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "121",
-    "nama": "Afdal Bumulo",
+    "nama": "AFDAL BUMULO",
     "nipd": "11701",
     "nisn": "0075104050",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "122",
-    "nama": "Akmal Bahtiar Akuba",
+    "nama": "AKMAL BAHTIAR AKUBA",
     "nipd": "11710",
     "nisn": "0089712272",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "123",
-    "nama": "Aldiansyah Lapamusu",
+    "nama": "Aldiansyah lapamusu",
     "nipd": "11712",
     "nisn": "0074574264",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "124",
     "nama": "Aprilya Zalzabila",
     "nipd": "11734",
     "nisn": "0085070910",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "125",
     "nama": "Arya Purnama Mokodompit",
     "nipd": "11737",
     "nisn": "0082913628",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "126",
-    "nama": "Athala Diaz Fariz Maunti",
+    "nama": "ATHALA DIAZ FARIZ MAUNTI",
     "nipd": "11742",
     "nisn": "0062918075",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "127",
-    "nama": "Cayla Gamkonora",
+    "nama": "CAYLA GAMKONORA",
     "nipd": "12076",
     "nisn": "0097527295",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "128",
-    "nama": "Dian Andriati Ibrahim",
+    "nama": "DIAN ANDRIATI IBRAHIM",
     "nipd": "11770",
     "nisn": "0083374083",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "129",
-    "nama": "Eka Putri Rasyita F. Uno",
+    "nama": "EKA PUTRI RASYITA F. UNO",
     "nipd": "11772",
     "nisn": "0095008490",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "130",
-    "nama": "Fahmil Dj. Suaib",
+    "nama": "FAHMIL DJ. SUAIB",
     "nipd": "11778",
     "nisn": "0083337260",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "131",
-    "nama": "Faiz Fajrian Salilama",
+    "nama": "FAIZ FAJRIAN SALILAMA",
     "nipd": "11780",
     "nisn": "0089427694",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "132",
     "nama": "Frisilia Dudu",
     "nipd": "12077",
     "nisn": "3076351995",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "133",
-    "nama": "Imelda I.Diu",
+    "nama": "Imelda I.diu",
     "nipd": "11817",
     "nisn": "0086995440",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "134",
     "nama": "Ismail Hidayattullah Hasan",
     "nipd": "11822",
     "nisn": "0068002897",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "135",
     "nama": "Isran Husain",
     "nipd": "11823",
     "nisn": "0071612811",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "136",
-    "nama": "Jihan Oktaviani Yunus",
+    "nama": "JIHAN OKTAVIANI YUNUS",
     "nipd": "11825",
     "nisn": "0089811492",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "137",
     "nama": "Kirana Mawar Rugayah Hasan",
     "nipd": "11836",
     "nisn": "0086222581",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "138",
     "nama": "Moh. Diansyah Abdullah",
     "nipd": "11855",
     "nisn": "0081059121",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "139",
     "nama": "Moh. Rayhan Pola",
     "nipd": "12065",
     "nisn": "3083406470",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "140",
-    "nama": "Moh. Rifki Dalanggo",
+    "nama": "MOH. RIFKI DALANGGO",
     "nipd": "11863",
     "nisn": "0089583663",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "141",
     "nama": "Mohamad Al-Finzah Patute",
     "nipd": "11867",
     "nisn": "0085812295",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "142",
     "nama": "Mohamad Gifari Dunggio",
     "nipd": "11875",
     "nisn": "0089854222",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "143",
     "nama": "Mohamad Idrus Djubair",
     "nipd": "11876",
     "nisn": "0075671005",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "144",
     "nama": "Mohamad Rehan Hinio",
     "nipd": "11882",
     "nisn": "0081195462",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "145",
-    "nama": "Muamar Asnawi Puloo",
+    "nama": "MUAMAR ASNAWI PULOO",
     "nipd": "11891",
     "nisn": "0085447001",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "146",
     "nama": "Nazwa Mootalu",
     "nipd": "11911",
     "nisn": "0084883952",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "147",
     "nama": "Nur Anisa Lahilote",
     "nipd": "11920",
     "nisn": "0055117124",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "148",
     "nama": "Ramdan Zulfikar Tumampas",
     "nipd": "11952",
     "nisn": "0071191158",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "149",
-    "nama": "Rarasti Hasan",
+    "nama": "RARASTI HASAN",
     "nipd": "11955",
     "nisn": "0073516003",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "150",
     "nama": "Regina Putri Utia",
     "nipd": "11957",
     "nisn": "0089409923",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "151",
     "nama": "Sarlan A. Ali",
     "nipd": "11987",
     "nisn": "0079260867",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "152",
     "nama": "Sri Adelia Masin",
     "nipd": "12012",
     "nisn": "0078763658",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "153",
-    "nama": "Sri Agustiani Tamrin",
+    "nama": "SRI AGUSTIANI TAMRIN",
     "nipd": "12013",
     "nisn": "0062751223",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "154",
     "nama": "Sulthan Katili",
     "nipd": "12027",
     "nisn": "0082077036",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "155",
     "nama": "Zauria Zahra Putri Mozin",
     "nipd": "12053",
     "nisn": "0088409034",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "156",
-    "nama": "Zidni Aghniya Ilman Djibran",
+    "nama": "ZIDNI AGHNIYA ILMAN DJIBRAN",
     "nipd": "12055",
     "nisn": "3087713015",
-    "keahlian": "DKV",
+    "Keahlian": "Desain Komunikasi Visual",
     "keterangan": "LULUS"
   },
   {
-    "id": "157",
     "nama": "Aditya Nusu",
     "nipd": "11699",
     "nisn": "0079706628",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "158",
     "nama": "Ahmad Irgi Varezi Adam",
     "nipd": "11704",
     "nisn": "0071576834",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "159",
     "nama": "Alqief Karim Suleman",
     "nipd": "11723",
     "nisn": "0075206695",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "160",
-    "nama": "Arsila Pahude",
+    "nama": "ARSILA PAHUDE",
     "nipd": "11736",
     "nisn": "0083744156",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "161",
     "nama": "Asmiranda Hulalata",
     "nipd": "11739",
     "nisn": "0081647190",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "162",
     "nama": "Astiranda Tobuhu",
     "nipd": "11741",
     "nisn": "0081951901",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "163",
     "nama": "Aurelia Cintia Djabar",
     "nipd": "11745",
     "nisn": "0087649622",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "164",
     "nama": "Aysa Shara Pertiwi Bau",
     "nipd": "11749",
     "nisn": "0086544033",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "165",
-    "nama": "Chelsy Yakobus",
+    "nama": "CHELSY YAKOBUS",
     "nipd": "11759",
     "nisn": "0089247875",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "166",
     "nama": "Fatmawaty Pantulu",
     "nipd": "11785",
     "nisn": "0077429856",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "167",
     "nama": "Fidya Dumbela",
     "nipd": "11792",
     "nisn": "0085885515",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "168",
     "nama": "Irmawati Lukum",
     "nipd": "11820",
     "nisn": "0079393672",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "169",
     "nama": "Ismail Basole",
     "nipd": "11821",
     "nisn": "0077132173",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "170",
-    "nama": "Keysha Arfan",
+    "nama": "KEYSHA ARFAN",
     "nipd": "11833",
     "nisn": "0085173794",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "171",
     "nama": "Moh Alfahri Antadi",
     "nipd": "11849",
     "nisn": "0088311187",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "172",
     "nama": "Moh. Farel Tolinggi",
     "nipd": "11859",
     "nisn": "0076379014",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "173",
-    "nama": "Mohamad Awaludin Hamzah",
+    "nama": "MOHAMAD AWALUDIN HAMZAH",
     "nipd": "11869",
     "nisn": "0076681113",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "174",
-    "nama": "Mufida Airmas",
+    "nama": "MUFIDA AIRMAS",
     "nipd": "11892",
     "nisn": "0088664140",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "175",
     "nama": "Muhamad Zulkifli E. Lalu",
     "nipd": "11897",
     "nisn": "0078246261",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "176",
-    "nama": "Nazla Nafai",
+    "nama": "NAZLA NAFAI",
     "nipd": "11908",
     "nisn": "3085843992",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "177",
-    "nama": "Nur Anggriyani Djibu",
+    "nama": "NUR ANGGRIYANI DJIBU",
     "nipd": "11919",
     "nisn": "0085112159",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "178",
-    "nama": "Nursifa Putri Stion",
+    "nama": "NURSIFA PUTRI STION",
     "nipd": "11930",
     "nisn": "0084980016",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "179",
     "nama": "Putra Febrian Danial",
     "nipd": "11934",
     "nisn": "0082708684",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "180",
-    "nama": "Rahmat Datau",
+    "nama": "RAHMAT DATAU",
     "nipd": "11944",
     "nisn": "0088477587",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "181",
     "nama": "Rahmatia Djafar",
     "nipd": "11949",
     "nisn": "0089006000",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "182",
     "nama": "Rifka Fauziah Pakaya",
     "nipd": "11965",
     "nisn": "0086150669",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "183",
-    "nama": "Riki Launi",
+    "nama": "RIKI LAUNI",
     "nipd": "11967",
     "nisn": "3038239287",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "184",
     "nama": "Salehsyah Ramadani F. Razak",
     "nipd": "11978",
     "nisn": "0081083617",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "185",
-    "nama": "Sandra Bakunti",
+    "nama": "SANDRA BAKUNTI",
     "nipd": "11985",
     "nisn": "0085733926",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "186",
     "nama": "Saskia Mutiara Harun",
     "nipd": "11989",
     "nisn": "0089072100",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "187",
-    "nama": "Sri Anastasya Lapu",
+    "nama": "SRI ANASTASYA LAPU",
     "nipd": "12015",
     "nisn": "0078872855",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "188",
     "nama": "Sri Hariyanti Payu",
     "nipd": "12018",
     "nisn": "0082640867",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "189",
-    "nama": "Tria Aulia Ali",
+    "nama": "TRIA AULIA ALI",
     "nipd": "12039",
     "nisn": "0074086794",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "190",
-    "nama": "Yoris Lexsi Abuada",
+    "nama": "YORIS LEXSI ABUADA",
     "nipd": "12044",
     "nisn": "0083683326",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "191",
-    "nama": "Yusrizal Ahmad",
+    "nama": "YUSRIZAL AHMAD",
     "nipd": "12047",
     "nisn": "0082347413",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "192",
     "nama": "Zufri Husain N. Ishak",
     "nipd": "12056",
     "nisn": "0088221118",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "193",
     "nama": "Abdul Adnan M. Nusi",
     "nipd": "11692",
     "nisn": "0087888617",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "194",
     "nama": "Alfahrizal Amin",
     "nipd": "11714",
     "nisn": "3083261830",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "195",
-    "nama": "Alfika Sesario Masa",
+    "nama": "ALFIKA SESARIO MASA",
     "nipd": "11715",
     "nisn": "0081390468",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "196",
-    "nama": "Anindya Kinanti Manorek",
+    "nama": "ANINDYA KINANTI MANOREK",
     "nipd": "11729",
     "nisn": "0084504310",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "197",
     "nama": "Aurelya Mahmud",
     "nipd": "11747",
     "nisn": "0075322240",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "198",
-    "nama": "Aznil Hamdata ",
+    "nama": "AZNIL HAMDATA ",
     "nipd": "11752",
     "nisn": "0088276702",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "199",
-    "nama": "Dea Ananda Arsyad",
+    "nama": "DEA ANANDA ARSYAD",
     "nipd": "11768",
     "nisn": "0088617421",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "200",
     "nama": "Desy Ratnasari Abas",
     "nipd": "11769",
     "nisn": "0053661349",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "201",
     "nama": "Fadila Alhasni",
     "nipd": "11775",
     "nisn": "0081649922",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "202",
     "nama": "Fitriani Labatjo",
     "nipd": "11798",
     "nisn": "0087427716",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "203",
     "nama": "Fitriansyah Blasherina Rahim",
     "nipd": "11799",
     "nisn": "0083164958",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "204",
     "nama": "Hijrah Nurain Hasim",
     "nipd": "11811",
     "nisn": "0093712071",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "205",
-    "nama": "Maharani Thalib",
+    "nama": "MAHARANI THALIB",
     "nipd": "11843",
     "nisn": "0089644640",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "206",
-    "nama": "Moh. Fadli Djou",
+    "nama": "MOH. FADLI DJOU",
     "nipd": "11856",
     "nisn": "0086747457",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "207",
     "nama": "Mohamad Iqbal Maulana",
     "nipd": "11877",
     "nisn": "0084863655",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "208",
     "nama": "Mohamad Rafly Katili",
     "nipd": "11880",
     "nisn": "0081567073",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "209",
     "nama": "Mohamad Rival Mahmud",
     "nipd": "11885",
     "nisn": "0082748311",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "210",
     "nama": "Mutiara R. Tahalu",
     "nipd": "11900",
     "nisn": "0075691354",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "211",
     "nama": "Nazwah Agisqa Tabo",
     "nipd": "11912",
     "nisn": "0085927507",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "212",
     "nama": "Putri Wulan Purnama Dewi Olii",
     "nipd": "11939",
     "nisn": "0086666090",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "213",
     "nama": "Rahmat Pakaya",
     "nipd": "11947",
     "nisn": "0065762873",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "214",
     "nama": "Ridwan Darise",
     "nipd": "11963",
     "nisn": "0078866928",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "215",
     "nama": "Riskal Ibrahim",
     "nipd": "11969",
     "nisn": "0088397154",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "216",
-    "nama": "Rizki Kalapati",
+    "nama": "RIZKI KALAPATI",
     "nipd": "11973",
     "nisn": "0061999096",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "217",
-    "nama": "Siti Fatma",
+    "nama": "SITI FATMA",
     "nipd": "12001",
     "nisn": "0084292506",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "218",
     "nama": "Siti Halisa Ismail",
     "nipd": "12004",
     "nisn": "0071381550",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "219",
-    "nama": "Siti Rahma Pomalo",
+    "nama": "SITI RAHMA POMALO",
     "nipd": "12008",
     "nisn": "0071369613",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "220",
     "nama": "Sri Hafisya Fitri Monoarfa",
     "nipd": "12017",
     "nisn": "0072691459",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "221",
-    "nama": "Syaerah Fatimah Azzahra",
+    "nama": "SYAERAH FATIMAH AZZAHRA",
     "nipd": "12029",
     "nisn": "0078272686",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "222",
-    "nama": "Zein Kadir",
+    "nama": "ZEIN KADIR",
     "nipd": "12054",
     "nisn": "0082882335",
-    "keahlian": "HOTEL",
+    "Keahlian": "Perhotelan",
     "keterangan": "LULUS"
   },
   {
-    "id": "223",
     "nama": "Airin Mohamad",
     "nipd": "11706",
     "nisn": "0089647684",
-    "keahlian": "KECANTIKAN",
+    "Keahlian": "Kecantikan & Spa",
     "keterangan": "LULUS"
   },
   {
-    "id": "224",
-    "nama": "Aljira Ma'Rif",
+    "nama": "Aljira Ma'rif",
     "nipd": "11719",
     "nisn": "0072427515",
-    "keahlian": "KECANTIKAN",
+    "Keahlian": "Kecantikan & Spa",
     "keterangan": "LULUS"
   },
   {
-    "id": "225",
-    "nama": "Amelia Ibrahim",
+    "nama": "AMELIA IBRAHIM",
     "nipd": "11727",
     "nisn": "0076434172",
-    "keahlian": "KECANTIKAN",
+    "Keahlian": "Kecantikan & Spa",
     "keterangan": "LULUS"
   },
   {
-    "id": "226",
     "nama": "Ayu Zihan Safira Noho",
     "nipd": "11751",
     "nisn": "0082114535",
-    "keahlian": "KECANTIKAN",
+    "Keahlian": "Kecantikan & Spa",
     "keterangan": "LULUS"
   },
   {
-    "id": "227",
-    "nama": "Cahaya Sabria Ulfi Utami Laya",
+    "nama": "CAHAYA SABRIA ULFI UTAMI LAYA",
     "nipd": "11755",
     "nisn": "0084890673",
-    "keahlian": "KECANTIKAN",
+    "Keahlian": "Kecantikan & Spa",
     "keterangan": "LULUS"
   },
   {
-    "id": "228",
-    "nama": "Claudia Annisa",
+    "nama": "CLAUDIA ANNISA",
     "nipd": "11765",
     "nisn": "0074165062",
-    "keahlian": "KECANTIKAN",
+    "Keahlian": "Kecantikan & Spa",
     "keterangan": "LULUS"
   },
   {
-    "id": "229",
-    "nama": "Fitryati Hulinggi",
+    "nama": "FITRYATI HULINGGI",
     "nipd": "11800",
     "nisn": "0087873230",
-    "keahlian": "KECANTIKAN",
+    "Keahlian": "Kecantikan & Spa",
     "keterangan": "LULUS"
   },
   {
-    "id": "230",
     "nama": "Julia Haura Azzarah Pidu",
     "nipd": "11827",
     "nisn": "0072935346",
-    "keahlian": "KECANTIKAN",
+    "Keahlian": "Kecantikan & Spa",
     "keterangan": "LULUS"
   },
   {
-    "id": "231",
     "nama": "Julvita Kadir",
     "nipd": "11828",
     "nisn": "0073889764",
-    "keahlian": "KECANTIKAN",
+    "Keahlian": "Kecantikan & Spa",
     "keterangan": "LULUS"
   },
   {
-    "id": "232",
     "nama": "Novi Dwita Sari",
     "nipd": "11915",
     "nisn": "0081266472",
-    "keahlian": "KECANTIKAN",
+    "Keahlian": "Kecantikan & Spa",
     "keterangan": "LULUS"
   },
   {
-    "id": "233",
-    "nama": "Nuraini Doka",
+    "nama": "NURAINI DOKA",
     "nipd": "11917",
     "nisn": "0083886271",
-    "keahlian": "KECANTIKAN",
+    "Keahlian": "Kecantikan & Spa",
     "keterangan": "LULUS"
   },
   {
-    "id": "234",
     "nama": "Putri Patmawati Daud",
     "nipd": "11937",
     "nisn": "0077031888",
-    "keahlian": "KECANTIKAN",
+    "Keahlian": "Kecantikan & Spa",
     "keterangan": "LULUS"
   },
   {
-    "id": "235",
     "nama": "Putri Wulan Darise",
     "nipd": "11938",
     "nisn": "0081285882",
-    "keahlian": "KECANTIKAN",
+    "Keahlian": "Kecantikan & Spa",
     "keterangan": "LULUS"
   },
   {
-    "id": "236",
     "nama": "Resya Ismail",
     "nipd": "11959",
     "nisn": "0075144377",
-    "keahlian": "KECANTIKAN",
+    "Keahlian": "Kecantikan & Spa",
     "keterangan": "LULUS"
   },
   {
-    "id": "237",
     "nama": "Riski Van Solang",
     "nipd": "11970",
     "nisn": "0087967523",
-    "keahlian": "KECANTIKAN",
+    "Keahlian": "Kecantikan & Spa",
     "keterangan": "LULUS"
   },
   {
-    "id": "238",
     "nama": "Shania Claudya",
     "nipd": "11992",
     "nisn": "0083295196",
-    "keahlian": "KECANTIKAN",
+    "Keahlian": "Kecantikan & Spa",
     "keterangan": "LULUS"
   },
   {
-    "id": "239",
     "nama": "Siren Tambiyo",
     "nipd": "11996",
     "nisn": "0081185151",
-    "keahlian": "KECANTIKAN",
+    "Keahlian": "Kecantikan & Spa",
     "keterangan": "LULUS"
   },
   {
-    "id": "240",
     "nama": "Siti Ayuhasni Djafar",
     "nipd": "11999",
     "nisn": "0084492064",
-    "keahlian": "KECANTIKAN",
+    "Keahlian": "Kecantikan & Spa",
     "keterangan": "LULUS"
   },
   {
-    "id": "241",
     "nama": "Sri Novita Hamzah",
     "nipd": "12021",
     "nisn": "0071428080",
-    "keahlian": "KECANTIKAN",
+    "Keahlian": "Kecantikan & Spa",
     "keterangan": "LULUS"
   },
   {
-    "id": "242",
     "nama": "Sriyanti Tolinggilo",
     "nipd": "12023",
     "nisn": "0084550812",
-    "keahlian": "KECANTIKAN",
+    "Keahlian": "Kecantikan & Spa",
     "keterangan": "LULUS"
   },
   {
-    "id": "243",
-    "nama": "Zuhria Putri Haryono",
+    "nama": "ZUHRIA PUTRI HARYONO",
     "nipd": "12057",
     "nisn": "0083044742",
-    "keahlian": "KECANTIKAN",
+    "Keahlian": "Kecantikan & Spa",
     "keterangan": "LULUS"
   },
   {
-    "id": "244",
-    "nama": "Zuliawati Yusuf",
+    "nama": "ZULIAWATI YUSUF",
     "nipd": "12059",
     "nisn": "0072720384",
-    "keahlian": "KECANTIKAN",
+    "Keahlian": "Kecantikan & Spa",
     "keterangan": "LULUS"
   },
   {
-    "id": "245",
     "nama": "Aisyah Pratiwi Darise",
     "nipd": "11709",
     "nisn": "0084502447",
-    "keahlian": "KECANTIKAN",
+    "Keahlian": "Kecantikan & Spa",
     "keterangan": "LULUS"
   },
   {
-    "id": "246",
     "nama": "Anissa Djafar",
     "nipd": "11731",
     "nisn": "0074484290",
-    "keahlian": "KECANTIKAN",
+    "Keahlian": "Kecantikan & Spa",
     "keterangan": "LULUS"
   },
   {
-    "id": "247",
-    "nama": "Auliya Darban",
+    "nama": "AULIYA DARBAN",
     "nipd": "11743",
     "nisn": "0083052115",
-    "keahlian": "KECANTIKAN",
+    "Keahlian": "Kecantikan & Spa",
     "keterangan": "LULUS"
   },
   {
-    "id": "248",
     "nama": "Ayiswarya Kadir",
     "nipd": "11748",
     "nisn": "0071501778",
-    "keahlian": "KECANTIKAN",
+    "Keahlian": "Kecantikan & Spa",
     "keterangan": "LULUS"
   },
   {
-    "id": "249",
-    "nama": "Febriyanti Deu",
+    "nama": "FEBRIYANTI DEU",
     "nipd": "11788",
     "nisn": "0088302301",
-    "keahlian": "KECANTIKAN",
+    "Keahlian": "Kecantikan & Spa",
     "keterangan": "LULUS"
   },
   {
-    "id": "250",
     "nama": "Khoirunnisa W. Panto",
     "nipd": "11834",
     "nisn": "0079995029",
-    "keahlian": "KECANTIKAN",
+    "Keahlian": "Kecantikan & Spa",
     "keterangan": "LULUS"
   },
   {
-    "id": "251",
     "nama": "Kinarya Anhar",
     "nipd": "11835",
     "nisn": "0079089574",
-    "keahlian": "KECANTIKAN",
+    "Keahlian": "Kecantikan & Spa",
     "keterangan": "LULUS"
   },
   {
-    "id": "252",
     "nama": "Nanda Apriliani Karim",
     "nipd": "11904",
     "nisn": "0099325157",
-    "keahlian": "KECANTIKAN",
+    "Keahlian": "Kecantikan & Spa",
     "keterangan": "LULUS"
   },
   {
-    "id": "253",
-    "nama": "Natisya Amelia Mohamad",
+    "nama": "NATISYA AMELIA MOHAMAD",
     "nipd": "11905",
     "nisn": "0088060715",
-    "keahlian": "KECANTIKAN",
+    "Keahlian": "Kecantikan & Spa",
     "keterangan": "LULUS"
   },
   {
-    "id": "254",
-    "nama": "Nayla Nur Azizah",
+    "nama": "NAYLA NUR AZIZAH",
     "nipd": "11906",
     "nisn": "0084785580",
-    "keahlian": "KECANTIKAN",
+    "Keahlian": "Kecantikan & Spa",
     "keterangan": "LULUS"
   },
   {
-    "id": "255",
-    "nama": "Nayla Suleman",
+    "nama": "NAYLA SULEMAN",
     "nipd": "11907",
     "nisn": "0085221557",
-    "keahlian": "KECANTIKAN",
+    "Keahlian": "Kecantikan & Spa",
     "keterangan": "LULUS"
   },
   {
-    "id": "256",
-    "nama": "Nur'Ain Ahmad",
+    "nama": "NUR'AIN AHMAD",
     "nipd": "11927",
     "nisn": "0087555465",
-    "keahlian": "KECANTIKAN",
+    "Keahlian": "Kecantikan & Spa",
     "keterangan": "LULUS"
   },
   {
-    "id": "257",
-    "nama": "Raisya Rahayu Kuadi",
+    "nama": "RAISYA RAHAYU KUADI",
     "nipd": "11951",
     "nisn": "0073096320",
-    "keahlian": "KECANTIKAN",
+    "Keahlian": "Kecantikan & Spa",
     "keterangan": "LULUS"
   },
   {
-    "id": "258",
     "nama": "Regita Ramadani Ahmad",
     "nipd": "11958",
     "nisn": "0074010050",
-    "keahlian": "KECANTIKAN",
+    "Keahlian": "Kecantikan & Spa",
     "keterangan": "LULUS"
   },
   {
-    "id": "259",
     "nama": "Silva Safitri Fazira",
     "nipd": "12063",
     "nisn": "0083208966",
-    "keahlian": "KECANTIKAN",
+    "Keahlian": "Kecantikan & Spa",
     "keterangan": "LULUS"
   },
   {
-    "id": "260",
-    "nama": "Siti Nurfitriani Hasan",
+    "nama": "SITI NURFITRIANI HASAN",
     "nipd": "12007",
     "nisn": "0079296211",
-    "keahlian": "KECANTIKAN",
+    "Keahlian": "Kecantikan & Spa",
     "keterangan": "LULUS"
   },
   {
-    "id": "261",
     "nama": "Siti Rifana Koniyo",
     "nipd": "12009",
     "nisn": "0081185208",
-    "keahlian": "KECANTIKAN",
+    "Keahlian": "Kecantikan & Spa",
     "keterangan": "LULUS"
   },
   {
-    "id": "262",
-    "nama": "Suci Laudji",
+    "nama": "SUCI LAUDJI",
     "nipd": "12424",
     "nisn": "0073511893",
-    "keahlian": "KECANTIKAN",
+    "Keahlian": "Kecantikan & Spa",
     "keterangan": "LULUS"
   },
   {
-    "id": "263",
     "nama": "Zaskia Putri Ramadhan R. Saleh",
     "nipd": "12052",
     "nisn": "0082064725",
-    "keahlian": "KECANTIKAN",
+    "Keahlian": "Kecantikan & Spa",
     "keterangan": "LULUS"
   },
   {
-    "id": "264",
     "nama": "Agustina Yunus",
     "nipd": "11703",
     "nisn": "0086074886",
-    "keahlian": "KULINER",
+    "Keahlian": "Kuliner",
     "keterangan": "LULUS"
   },
   {
-    "id": "265",
-    "nama": "Ainun Cintani Ibrahim",
+    "nama": "AINUN CINTANI IBRAHIM",
     "nipd": "11705",
     "nisn": "0063374810",
-    "keahlian": "KULINER",
+    "Keahlian": "Kuliner",
     "keterangan": "LULUS"
   },
   {
-    "id": "266",
     "nama": "Aisyah Nur Masturah Hunta",
     "nipd": "11708",
     "nisn": "0079631638",
-    "keahlian": "KULINER",
+    "Keahlian": "Kuliner",
     "keterangan": "LULUS"
   },
   {
-    "id": "267",
     "nama": "Alifa Damayanti Djuli",
     "nipd": "11717",
     "nisn": "0086601855",
-    "keahlian": "KULINER",
+    "Keahlian": "Kuliner",
     "keterangan": "LULUS"
   },
   {
-    "id": "268",
     "nama": "Aurelya Faustine",
     "nipd": "11746",
     "nisn": "0077362762",
-    "keahlian": "KULINER",
+    "Keahlian": "Kuliner",
     "keterangan": "LULUS"
   },
   {
-    "id": "269",
-    "nama": "Dzakiya Azhariyah",
+    "nama": "DZAKIYA AZHARIYAH",
     "nipd": "11771",
     "nisn": "0081435905",
-    "keahlian": "KULINER",
+    "Keahlian": "Kuliner",
     "keterangan": "LULUS"
   },
   {
-    "id": "270",
-    "nama": "Fatnan Maksum",
+    "nama": "FATNAN MAKSUM",
     "nipd": "11786",
     "nisn": "0075143060",
-    "keahlian": "KULINER",
+    "Keahlian": "Kuliner",
     "keterangan": "LULUS"
   },
   {
-    "id": "271",
     "nama": "Febriyanti Ladiku",
     "nipd": "11789",
     "nisn": "0085625354",
-    "keahlian": "KULINER",
+    "Keahlian": "Kuliner",
     "keterangan": "LULUS"
   },
   {
-    "id": "272",
     "nama": "Fitra Agung Thaib",
     "nipd": "11796",
     "nisn": "0086534253",
-    "keahlian": "KULINER",
+    "Keahlian": "Kuliner",
     "keterangan": "LULUS"
   },
   {
-    "id": "273",
-    "nama": "Hani Khumairah Hasim",
+    "nama": "HANI KHUMAIRAH HASIM",
     "nipd": "11807",
     "nisn": "0066387244",
-    "keahlian": "KULINER",
+    "Keahlian": "Kuliner",
     "keterangan": "LULUS"
   },
   {
-    "id": "274",
-    "nama": "Ilham Lanti",
+    "nama": "ilham lanti",
     "nipd": "11815",
     "nisn": "0063644853",
-    "keahlian": "KULINER",
+    "Keahlian": "Kuliner",
     "keterangan": "LULUS"
   },
   {
-    "id": "275",
     "nama": "Kirana Syahrani",
     "nipd": "11837",
     "nisn": "0088081516",
-    "keahlian": "KULINER",
+    "Keahlian": "Kuliner",
     "keterangan": "LULUS"
   },
   {
-    "id": "276",
-    "nama": "Lilyana A. Wangarij",
+    "nama": "Lilyana A. wangarij",
     "nipd": "11838",
     "nisn": "0146091732",
-    "keahlian": "KULINER",
+    "Keahlian": "Kuliner",
     "keterangan": "LULUS"
   },
   {
-    "id": "277",
     "nama": "Lisuawati Husain",
     "nipd": "11839",
     "nisn": "0069793147",
-    "keahlian": "KULINER",
+    "Keahlian": "Kuliner",
     "keterangan": "LULUS"
   },
   {
-    "id": "278",
     "nama": "Moh. Arjuna",
     "nipd": "11853",
     "nisn": "0099377273",
-    "keahlian": "KULINER",
+    "Keahlian": "Kuliner",
     "keterangan": "LULUS"
   },
   {
-    "id": "279",
     "nama": "Moh. Farel Tuweno",
     "nipd": "11860",
     "nisn": "0073632140",
-    "keahlian": "KULINER",
+    "Keahlian": "Kuliner",
     "keterangan": "LULUS"
   },
   {
-    "id": "280",
     "nama": "Najla Hardiyanti Himari",
     "nipd": "11903",
     "nisn": "0096105109",
-    "keahlian": "KULINER",
+    "Keahlian": "Kuliner",
     "keterangan": "LULUS"
   },
   {
-    "id": "281",
-    "nama": "Novita J. Ibrahim",
+    "nama": "NOVITA J. IBRAHIM",
     "nipd": "11916",
     "nisn": "0074235971",
-    "keahlian": "KULINER",
+    "Keahlian": "Kuliner",
     "keterangan": "LULUS"
   },
   {
-    "id": "282",
     "nama": "Rahmat Karim",
     "nipd": "11946",
     "nisn": "0065195616",
-    "keahlian": "KULINER",
+    "Keahlian": "Kuliner",
     "keterangan": "LULUS"
   },
   {
-    "id": "283",
-    "nama": "Sintia Dewi Kairupan",
+    "nama": "SINTIA DEWI KAIRUPAN",
     "nipd": "11995",
     "nisn": "0087086313",
-    "keahlian": "KULINER",
+    "Keahlian": "Kuliner",
     "keterangan": "LULUS"
   },
   {
-    "id": "284",
     "nama": "Siti Suge",
     "nipd": "12010",
     "nisn": "0088953860",
-    "keahlian": "KULINER",
+    "Keahlian": "Kuliner",
     "keterangan": "LULUS"
   },
   {
-    "id": "285",
     "nama": "Sri Mulyani Laposi",
     "nipd": "12019",
     "nisn": "0072244377",
-    "keahlian": "KULINER",
+    "Keahlian": "Kuliner",
     "keterangan": "LULUS"
   },
   {
-    "id": "286",
-    "nama": "Sri Nabila Polapa",
+    "nama": "SRI NABILA POLAPA",
     "nipd": "12020",
     "nisn": "0085139113",
-    "keahlian": "KULINER",
+    "Keahlian": "Kuliner",
     "keterangan": "LULUS"
   },
   {
-    "id": "287",
-    "nama": "Syahrini Ishak",
+    "nama": "SYAHRINI ISHAK",
     "nipd": "12030",
     "nisn": "0083172881",
-    "keahlian": "KULINER",
+    "Keahlian": "Kuliner",
     "keterangan": "LULUS"
   },
   {
-    "id": "288",
     "nama": "Tiara Fatma Tiwo",
     "nipd": "12037",
     "nisn": "0068583609",
-    "keahlian": "KULINER",
+    "Keahlian": "Kuliner",
     "keterangan": "LULUS"
   },
   {
-    "id": "289",
     "nama": "Zahra Safia Choirunnisa",
     "nipd": "12049",
     "nisn": "3072145764",
-    "keahlian": "KULINER",
+    "Keahlian": "Kuliner",
     "keterangan": "LULUS"
   }
 ]

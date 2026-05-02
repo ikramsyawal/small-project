@@ -66,7 +66,7 @@ export default function Home() {
         id="print-area"
         className="flex flex-1 w-full max-w-5xl flex-col items-center pt-6 px-16 bg-white dark:bg-black sm:items-start"
       >
-        <h1 className="text-2xl font-bold mb-2">Cek Kelulusan</h1>
+        <h1 className="text-2xl font-bold mb-2">Pengumuman Kelulusan</h1>
         <p className="text-zinc-500 text-sm mb-6">
           Masukkan NISN untuk melihat hasil kelulusan.
         </p>
@@ -188,9 +188,9 @@ export default function Home() {
                   <span>:</span>
                   <span>{hasil.nisn}</span>
 
-                  <span className="font-semibold">Konsentrasi Keahlian</span>
+                  <span className="font-semibold">Program Keahlian</span>
                   <span>:</span>
-                  <span>{hasil.keahlian}</span>
+                  <span>{hasil.Keahlian}</span>
                 </div>
                 <div className="w-full text-center mb-4">
                   <p className="font-semibold">Dinyatakan</p>
