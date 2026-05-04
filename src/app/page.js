@@ -1,11 +1,39 @@
 "use client";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 
 export default function Home() {
   const [nisn, setNisn] = useState("");
   const [hasil, setHasil] = useState(null);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState("");
+  const [isOpened, setIsOpened] = useState(false);
+  const [countdown, setCountdown] = useState("");
+
+  // Target waktu: 4 Mei 2026, 22:00 WITA (WITA adalah UTC+8)
+  const TARGET_DATE = new Date("2026-05-04T22:00:00+08:00").getTime();
+
+  useEffect(() => {
+    const timer = setInterval(() => {
+      const now = new Date().getTime();
+      const distance = TARGET_DATE - now;
+
+      if (distance <= 0) {
+        setIsOpened(true);
+        clearInterval(timer);
+      } else {
+        // Hitung D, H, M, S
+        const hours = Math.floor(
+          (distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60),
+        );
+        const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+        const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+        setCountdown(`${hours}j ${minutes}m ${seconds}d`);
+      }
+    }, 1000);
+
+    return () => clearInterval(timer);
+  }, []);
 
   const cekKelulusan = async () => {
     if (!nisn) return alert("Isi NISN dulu ya!");
@@ -75,20 +103,39 @@ export default function Home() {
           <label className="label text-xs font-semibold uppercase text-zinc-400">
             Nomor Induk Siswa Nasional
           </label>
-          <input
-            type="text"
-            className="input input-bordered w-full mb-4 bg-zinc-50 dark:bg-zinc-800"
-            placeholder="Contoh: 006123456"
-            value={nisn}
-            onChange={(e) => setNisn(e.target.value)}
-          />
-          <button
-            onClick={cekKelulusan}
-            disabled={loading}
-            className={`btn btn-neutral w-full ${loading ? "loading" : ""}`}
-          >
-            {loading ? "Mengecek..." : "Lihat Hasil"}
-          </button>
+
+          {isOpened ? (
+            // TAMPILAN JIKA SUDAH DIBUKA
+            <>
+              <input
+                type="text"
+                className="input input-bordered w-full mb-4 bg-zinc-50 dark:bg-zinc-800"
+                placeholder="Contoh: 006123456"
+                value={nisn}
+                onChange={(e) => setNisn(e.target.value)}
+              />
+              <button
+                onClick={cekKelulusan}
+                disabled={loading}
+                className={`btn btn-neutral w-full ${loading ? "loading" : ""}`}
+              >
+                {loading ? "Mengecek..." : "Lihat Hasil"}
+              </button>
+            </>
+          ) : (
+            // TAMPILAN HITUNG MUNDUR
+            <div className="p-6 border-2 border-dashed border-amber-200 bg-amber-50 rounded-xl text-center">
+              <p className="text-amber-700 font-medium mb-2">
+                Pengumuman dibuka dalam:
+              </p>
+              <div className="text-3xl font-black text-amber-800 tracking-widest font-mono">
+                {countdown || "Memuat..."}
+              </div>
+              <p className="text-[10px] text-amber-600 mt-2 italic">
+                Akses dibuka pada 4 Mei 2026 pukul 22:00 WITA
+              </p>
+            </div>
+          )}
         </div>
 
         {/* AREA HASIL */}
