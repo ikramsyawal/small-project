@@ -145,31 +145,6 @@ export default function Home() {
           </div>
         )}
 
-        {/* {hasil && (
-          <div className="mt-8 p-6 w-full border-2 border-dashed border-zinc-200 rounded-xl bg-zinc-50 dark:bg-zinc-800 text-center">
-            <h2 className="text-lg font-bold">{hasil.nama}</h2>
-            <p className="text-sm text-zinc-500 mb-4">{hasil.nisn}</p>
-
-            <div
-              className={`py-2 px-4 rounded-full font-bold inline-block ${
-                hasil.status === "LULUS"
-                  ? "bg-green-100 text-green-700"
-                  : "bg-red-100 text-red-700"
-              }`}
-            >
-              {hasil.keterangan}
-            </div>
-
-            {hasil.keterangan === "LULUS" && (
-              <button
-                onClick={() => window.print()}
-                className="btn btn-outline btn-sm w-full mt-6"
-              >
-                Cetak Surat
-              </button>
-            )}
-          </div>
-        )} */}
         {hasil && (
           <div className="w-full overflow-x-auto pb-10 custom-scrollbar mt-8">
             <div
@@ -261,10 +236,10 @@ export default function Home() {
                   <p>Gorontalo, 4 Mei 2026</p>
                   <p className="font-semibold">Kepala Sekolah,</p>
 
-                  <div className="flex justify-center my-4">
+                  <div className="flex justify-center">
                     <img
                       src="/kepsek_ttd.png"
-                      className="h-28 object-contain"
+                      className="h-32 mr-16 object-contain"
                       alt="Tanda Tangan"
                     />
                   </div>
